@@ -1,0 +1,22 @@
+[project]
+name = "job-search-agent"
+version = "0.1.0"
+description = "An AI-powered job search agent that analyzes a user's CV, searches for relevant jobs, refines search queries, and ranks job recommendations."
+readme = "README.md"
+requires-python = ">=3.12"
+
+authors = [
+    { name = "Nazanin Mahmoudi", email = "NazaninMahmoudy@gmail.com" }
+]
+
+dependencies = [
+    "streamlit",
+    "openai",
+    "langgraph",
+    "langchain",
+    "langchain-openai",
+    "pymupdf",
+    "pydantic",
+    "python-dotenv",
+    "requests",
+]
