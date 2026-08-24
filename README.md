@@ -27,8 +27,6 @@ Before running the project, make sure you have the following:
 
 ## Installation
 
-## Installation
-
 ### 1. Clone the repository
 
 ```bash
@@ -66,8 +64,11 @@ streamlit run app.py
 
 ### 6. Enjoy 
 
+## License
 
-- ## Contact
+This project is licensed under the MIT License, allowing anyone to use, modify, and build upon it without restrictions.
+
+## Contact
 
 If you have any questions or suggestions, feel free to reach out:
 
@@ -76,6 +77,3 @@ If you have any questions or suggestions, feel free to reach out:
 - Kaggle: https://www.kaggle.com/nazaninmahmoudy
 
 
-## License
-
-This project is licensed under the MIT License.
